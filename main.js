@@ -88,22 +88,22 @@ $(document).on('click', '#tabletop-loc-modal .modal-close', function () {
     $('#tabletop-loc-modal').removeClass('is-active')
 })
 
-// tethree
+// tetheree
 
-$(document).on('click', '#tethree-git-modal-link', function () {
-    $('#tethree-git-modal').addClass('is-active')
+$(document).on('click', '#tetheree-git-modal-link', function () {
+    $('#tetheree-git-modal').addClass('is-active')
 })
 
-$(document).on('click', '#tethree-git-modal .modal-close', function () {
-    $('#tethree-git-modal').removeClass('is-active')
+$(document).on('click', '#tetheree-git-modal .modal-close', function () {
+    $('#tetheree-git-modal').removeClass('is-active')
 })
 
-$(document).on('click', '#tethree-loc-modal-link', function () {
-    $('#tethree-loc-modal').addClass('is-active')
+$(document).on('click', '#tetheree-loc-modal-link', function () {
+    $('#tetheree-loc-modal').addClass('is-active')
 })
 
-$(document).on('click', '#tethree-loc-modal .modal-close', function () {
-    $('#tethree-loc-modal').removeClass('is-active')
+$(document).on('click', '#tetheree-loc-modal .modal-close', function () {
+    $('#tetheree-loc-modal').removeClass('is-active')
 })
 
 // vpnmaker
